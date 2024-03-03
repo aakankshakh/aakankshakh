@@ -2,7 +2,7 @@
 
 I’m a fourth-year undergraduate student finishing up a Bachelor of Science with Joint Honours in Mathematics and Computer Science, with a minor in biochemistry. I’m passionate about applications of AI and machine learning to healthcare and it’s ethical implications, and am hoping to do graduate studies in the field.
 
-I’ve had the opportunity to be a fellow at the AI4Good lab in 2022 and attended the Bumblekite machine learning summer school in healthcare and the biosciences in July 2023. Currently, I’m a summer research student at The Simpson Lab at Queen’s University working on AI ethics in healthcare. Previously, I’ve worked for Dr. Matthew Betti on mathematical epidemiology at Mount Allison University, where I also work as a teaching assistant in the math and computer science department. 
+I’ve had the opportunity to be a fellow at the AI4Good lab in 2022 and attended the Bumblekite machine learning summer school in healthcare and the biosciences in July 2023. Currently, Last summer, I was a research student at The Simpson Lab at Queen’s University working on AI ethics in healthcare. Previously, I’ve worked for Dr. Matthew Betti on mathematical epidemiology at Mount Allison University, where I also work as a teaching assistant in the math and computer science department. 
 
 <!--
 **aakankshakh/aakankshakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
